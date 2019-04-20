@@ -70,3 +70,19 @@ li a:hover {
   margin: 50px;
   padding: 50px;
 }
+
+#border{
+display: inline-block;
+width:40%;
+border: 50px  grey;
+background: grey;
+padding: 10px;
+margin: 20px;
+overflow:auto;
+}
+#ill{
+float:left;
+max-width: 40%;
+
+
+}
